@@ -61,12 +61,6 @@ namespace FOR_TASKS
             //diagonaldan yuxari max element
             Console.Write("Diagonaldan yuxari max element: ");
             DiagonaldanYuxariMax(array);
-           
-
-
-
-
-
         }
 
 
@@ -239,11 +233,7 @@ namespace FOR_TASKS
             Console.WriteLine(maxelement);
         }
 
-
-
-
-
-        }
+     }
 }
 
 
